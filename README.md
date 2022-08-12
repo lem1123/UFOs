@@ -1,6 +1,6 @@
 # UFOs - Challenge Number Eleven 
 
-![nasa.png](nasa.png)
+![nasa.jpg](nasa.jpg)
 
 ## Overview of the Analysis
 
